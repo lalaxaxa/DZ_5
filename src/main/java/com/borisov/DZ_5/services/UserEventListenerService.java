@@ -1,6 +1,6 @@
 package com.borisov.DZ_5.services;
 
-import borisov.core.UserChangedEvent;
+import com.borisov.DZ_5.events.UserChangedEvent;
 import com.borisov.DZ_5.dto.EmailSendDTO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
